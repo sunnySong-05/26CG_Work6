@@ -119,7 +119,7 @@
 
 ### 2. 演变过程与动画分析
 
-通过 `imageio` 捕获的中间状态并生成的 `optimized_evolution.gif` 显示了完美的收敛轨迹：
+通过 `imageio` 捕获的中间状态并生成的 `optimized_evolution.gif` 显示了较为完整清晰的收敛轨迹：
 
 ![演化过程](./optimized_evolution.gif)
 
